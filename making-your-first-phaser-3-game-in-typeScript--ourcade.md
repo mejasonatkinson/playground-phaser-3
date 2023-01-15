@@ -1,4 +1,4 @@
-# Making Your First Phaser 3 Game in TypeScript; Ourcade
+# [Making Your First Phaser 3 Game in TypeScript; Ourcade](https://www.youtube.com/playlist?list=PLNwtXgWIx3ri6Bbouc4uUGk2bdDzNA1eP)
 
 *Course content, Last updated on 16 May 2022*
 
