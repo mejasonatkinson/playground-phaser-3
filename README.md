@@ -4,7 +4,7 @@ A place to learn more about phaser 3, and try things.
 
 ## Notes
 
-- [ ] [Making Your First Phaser 3 Game in TypeScript; Ourcade](making-your-first-phaser-3-game-in-typeScript--ourcade.md)
+- [ ] [Making Your First Phaser 3 Game in TypeScript; Ourcade](notes/making-your-first-phaser-3-game-in-typeScript--ourcade.md)
 
 ## Projects
 
